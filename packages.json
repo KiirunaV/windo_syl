@@ -1,7 +1,9 @@
-[
-  {
-    "name": "test_package",
-    "version": "v0.0.0",
-    "location": ""
-  }
-]
+{
+  "package_url_root": "https://raw.githubusercontent.com/KiirunaV/windo_syl/main/packages/",
+  "packages": [
+    {
+      "name": "echo",
+      "version": "v1.0.0"
+    }
+  ]
+}
