@@ -1,0 +1,37 @@
+WINDO_SYL OS
+v0.0.0
+
+DEFAULT COMMANDS
+pak <-i/-f/-u> [options]
+  Windo_syl's package manager.
+    -i -- Install package. Ex: pak -i default
+    -f -- Install file from package system. Ex: pak -f default/help.txt /windo_syl/temp
+    -u -- Update package list. Ex pak -u
+
+ws <filename>
+  Runs console code from a .ws file.
+
+cat <filename>
+  Prints file to the screen
+  
+cd <path>
+  Changes the working directory to the path specified
+
+help
+  Displays this info
+
+ls
+  Lists the files and directories in the working directory
+
+mkdir <dirname>
+  Adds a new directory with dirname as a name
+
+mkf <filename> <contents>
+  Creates a file named filename with contents of contents
+
+mv <filename1> <filename2>
+  Copies a file from 1 to 2
+  ! NOTE ! only accepts file names, paths will not work
+
+rm <file>
+  Deletes a file
