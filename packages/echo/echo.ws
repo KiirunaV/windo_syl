@@ -1,2 +1,2 @@
 pak -f echo/echo.js
-mv /temp/echo.js /window_syl/prog/echo.js
+mv /windo_syl/temp/echo.js /windo_syl/prog/echo.js
