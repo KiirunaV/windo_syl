@@ -6,3 +6,4 @@ pak -f default/ls.js /windo_syl/prog
 pak -f default/mkdir.js /windo_syl/prog
 pak -f default/mkf.js /windo_syl/prog
 pak -f default/mv.js /windo_syl/prog
+pak -f default/rm.js /windo_syl/prog
