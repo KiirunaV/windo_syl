@@ -1,3 +1,3 @@
 function echo(args){
-  output += args.join(" ");
+  output += args.join(" ") + "\n";
 }
